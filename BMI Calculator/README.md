@@ -11,7 +11,7 @@ It should tell them the interpretation of their BMI based on the BMI value.
 * Over 30 but below 35 they are obese
 * Above 35 they are clinically obese.
 
-   _Formula To be used:_
+ _Formula To be used:_
 
 ![BMI+Image+Small](https://github.com/divyanshddn146/Python-Projects/blob/main/BMI%20Calculator/BMI%2BImage%2BSmall%20.jpeg)
 
