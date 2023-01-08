@@ -16,6 +16,6 @@ It should tell them the interpretation of their BMI based on the BMI value.
 ![BMI+Image+Small](https://github.com/divyanshddn146/Python-Projects/blob/main/BMI%20Calculator/BMI%2BImage%2BSmall%20.jpeg)
 
 Other Links to see more details about BMI Calculator are:
-* https://www.calculator.net/bmi-calculator.html
+1) https://www.calculator.net/bmi-calculator.html
 
 
