@@ -13,6 +13,6 @@ It should tell them the interpretation of their BMI based on the BMI value.
 
 _Formula To be used:_
 
-!(https://github.com/divyanshddn146/Python-Projects/blob/main/BMI%20Calculator/BMI%2BImage%2BSmall.jpeg)
+![BMI+Image+Small](https://github.com/divyanshddn146/Python-Projects/blob/main/BMI%20Calculator/BMI%2BImage%2BSmall.jpeg)
 
 
