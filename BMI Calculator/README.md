@@ -10,7 +10,7 @@ It should tell them the interpretation of their BMI based on the BMI value.
 * Over 25 but below 30 they are slightly overweight
 * Over 30 but below 35 they are obese
 * Above 35 they are clinically obese.
-@settings {
-  font-size: 20;
-Formula To be used:
-}
+
+_Formula To be used:_
+
+
