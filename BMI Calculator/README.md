@@ -11,6 +11,6 @@ It should tell them the interpretation of their BMI based on the BMI value.
 * Over 30 but below 35 they are obese
 * Above 35 they are clinically obese.
 @settings {
-  font-size: 10;
+  font-size: 20;
 Formula To be used:
 }
