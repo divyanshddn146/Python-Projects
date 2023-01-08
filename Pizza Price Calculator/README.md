@@ -1,4 +1,4 @@
-#PIZZA PRICE CALCULATOR
+## PIZZA PRICE CALCULATOR
 
 So,in this code we have to build an automatic pizza order program.
 
