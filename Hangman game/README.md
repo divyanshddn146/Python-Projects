@@ -7,5 +7,5 @@ The player guessing the word may, at any time, attempt to guess the whole word.I
 
 In this game we have given guesse 6 chances to guess the correct word that will randomly selected by computer from a huge list of words, f player guessed it within 6 chances(or lives) then guesser wins if not he will loose.
 
-Refrences:
+References:
 * https://en.wikipedia.org/wiki/Hangman_(game)
