@@ -5,7 +5,7 @@ The word to guess is represented by a row of dashes representing each letter of 
 
 The player guessing the word may, at any time, attempt to guess the whole word.If the word is correct, the game is over and the guesser wins. Otherwise, the other player may choose to penalize the guesser by adding an element to the diagram. On the other hand, if the guesser makes enough incorrect guesses to allow the other player to complete the diagram, the guesser loses. However, the guesser can also win by guessing all the letters that appear in the word, thereby completing the word, before the diagram is completed.
 
-In this game we have given guesse 6 chances to guess the correct word that will randomly selected by computer from a huge list of words, f player guessed it within 6 chances(or lives) then guesser wins if not he will loose.
+In this game we are given with 6 chances to guess the correct word that will be randomly selected by computer from a huge list of words,if player guessed it within 6 chances(or lives) then guesser wins if not he will loose.
 
 References:
 * https://en.wikipedia.org/wiki/Hangman_(game)
