@@ -1,3 +1,6 @@
+import sys
+sys.path.append("./art")
+                            
 from art import logo
 print(logo)
 
