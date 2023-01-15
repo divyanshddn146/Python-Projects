@@ -1,4 +1,4 @@
-from https://github.com/divyanshddn146/Python-Projects/blob/main/Caesar%20Cipher/art.py import logo
+from art import logo
 print(logo)
 
 while(True):
