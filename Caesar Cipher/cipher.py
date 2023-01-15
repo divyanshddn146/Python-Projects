@@ -1,5 +1,4 @@
-import sys
-sys.path.append("https://github.com/divyanshddn146/Python-Projects/blob/main/Caesar%20Cipher/art.py")
+import Python-Projects/Caesar Cipher/art
                             
 from art import logo
 print(logo)
