@@ -1,4 +1,4 @@
-import divyanshddn146/Python-Projects/Caesar Cipher/art.py
+import divyanshddn146/Python-Projects/Caesar Cipher/art/logo
                             
 from art import logo
 print(logo)
